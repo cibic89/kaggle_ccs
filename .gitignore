@@ -112,6 +112,7 @@ venv.bak/
 references/
 data/
 software/
+models/
 
 # Spyder project settings
 .spyderproject
